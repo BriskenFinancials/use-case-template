@@ -1,0 +1,48 @@
+## Table Of Contents
+
+<!-- disco-toc-start -->
+- DISCOVER
+  - [Obtain access to a self-guided demo environment for SAP MBC](cards/UC10000426-A-01-obtain-access-to-a-self-guided-demo-environment-for-sap-mbc.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Obtain access to a self-guided demo environment for SAP MBC"} dc-card -->
+  - [Review product brochures, FAQs, and recorded demo videos](cards/UC10000426-A-02-review-product-brochures-faqs-and-recorded-demo-videos.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Review product brochures, FAQs, and recorded demo videos"} dc-card -->
+  - [Request access to a sandbox environment for hands-on exploration](cards/UC10000426-A-03-request-access-to-a-sandbox-environment-for-hands-on-exploration.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Request access to a sandbox environment for hands-on exploration"} dc-card -->
+  - [Highlight potential use cases for SAP MBC](cards/UC10000426-A-04-highlight-potential-use-cases-for-sap-mbc.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Highlight potential use cases for SAP MBC"} dc-card -->
+  - [Obtain FAQ or chatbot support for customer queries](cards/UC10000426-A-05-obtain-faq-or-chatbot-support-for-customer-queries.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Obtain FAQ or chatbot support for customer queries"} dc-card -->
+- TALK TO BRISKEN
+  - [Conduct a live demo session tailored to customer requirements](cards/UC10000426-G-01-conduct-a-live-demo-session-tailored-to-customer-requirements.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Conduct a live demo session tailored to customer requirements"} dc-card -->
+  - [Showcase key SAP MBC functionalities in live demo](cards/UC10000426-G-02-showcase-key-sap-mbc-functionalities-in-live-demo.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Showcase key SAP MBC functionalities in live demo"} dc-card -->
+  - [Host a technical workshop to evaluate customer SAP system readiness](cards/UC10000426-G-03-host-a-technical-workshop-to-evaluate-customer-sap-system-readiness.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Host a technical workshop to evaluate customer SAP system readiness"} dc-card -->
+  - [Define project scope for 1 company code and 3 banks](cards/UC10000426-G-04-define-project-scope-for-1-company-code-and-3-banks.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Define project scope for 1 company code and 3 banks"} dc-card -->
+  - [Present fixed-scope, fixed-price proposal with project timelines](cards/UC10000426-G-05-present-fixed-scope-fixed-price-proposal-with-project-timelines.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Present fixed-scope, fixed-price proposal with project timelines"} dc-card -->
+  - [Finalize and sign the contract to initiate the implementation](cards/UC10000426-G-06-finalize-and-sign-the-contract-to-initiate-the-implementation.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Finalize and sign the contract to initiate the implementation"} dc-card -->
+- PREPARE
+  - [Conduct project kickoff meeting](cards/UC10000426-L-01-conduct-project-kickoff-meeting.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Conduct project kickoff meeting"} dc-card -->
+  - [Activate SAP MBC in customers SAP environment](cards/UC10000426-L-02-activate-sap-mbc-in-customers-sap-environment.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Activate SAP MBC in customers SAP environment"} dc-card -->
+  - [Ensure technical landscape readiness for SAP MBC implementation](cards/UC10000426-L-03-ensure-technical-landscape-readiness-for-sap-mbc-implementation.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Ensure technical landscape readiness for SAP MBC implementation"} dc-card -->
+- EXPLORE
+  - [Conduct Fit-to-Standard workshop to map requirements to SAP MBC](cards/UC10000426-L-04-conduct-fit-to-standard-workshop-to-map-requirements-to-sap-mbc.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Conduct Fit-to-Standard workshop to map requirements to SAP MBC"} dc-card -->
+  - [Validate customer requirements against SAP MBC functionality](cards/UC10000426-L-05-validate-customer-requirements-against-sap-mbc-functionality.md)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Validate customer requirements against SAP MBC functionality"} dc-card -->
+  - [Document payment formats required for 3 banks](cards/UC10000426-L-06-document-payment-formats-required-for-3-banks.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Document payment formats required for 3 banks"} dc-card -->
+- REALIZE
+  - [Plan MBC connectivity setup for each bank](cards/UC10000426-O-01-plan-mbc-connectivity-setup-for-each-bank.md)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Plan MBC connectivity setup for each bank"} dc-card -->
+  - [Prepare test plan and data for customer-specific scenarios](cards/UC10000426-O-02-prepare-test-plan-and-data-for-customer-specific-scenarios.md)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Prepare test plan and data for customer-specific scenarios"} dc-card -->
+  - [Configure SAP MBC for the customers company code](cards/UC10000426-O-03-configure-sap-mbc-for-the-customers-company-code.md)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Configure SAP MBC for the customers company code"} dc-card -->
+  - [Set up bank accounts and communication channels for 3 banks](cards/UC10000426-O-04-set-up-bank-accounts-and-communication-channels-for-3-banks.md)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Set up bank accounts and communication channels for 3 banks"} dc-card -->
+  - [Conduct unit and integration testing for each scenario](cards/UC10000426-O-05-conduct-unit-and-integration-testing-for-each-scenario.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Conduct unit and integration testing for each scenario"} dc-card -->
+- DEPLOY
+  - [Train key users on SAP MBC functionality](cards/UC10000426-S-01-train-key-users-on-sap-mbc-functionality.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Train key users on SAP MBC functionality"} dc-card -->
+  - [Prepare cutover plan and production environment](cards/UC10000426-S-02-prepare-cutover-plan-and-production-environment.md)<!-- dc-card: {"label": ["BRISKEN"], "cardName": "Prepare cutover plan and production environment"} dc-card -->
+  - [Conduct UAT and validate end-to-end process for 3 banks](cards/UC10000426-S-03-conduct-uat-and-validate-end-to-end-process-for-3-banks.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Conduct UAT and validate end-to-end process for 3 banks"} dc-card -->
+  - [Move configurations to production and execute first live payment run](cards/UC10000426-S-04-move-configurations-to-production-and-execute-first-live-payment-run.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Move configurations to production and execute first live payment run"} dc-card -->
+- RUN
+  - [Monitor initial transactions for errors and delays](cards/UC10000426-V-01-monitor-initial-transactions-for-errors-and-delays.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Monitor initial transactions for errors and delays"} dc-card -->
+  - [Obtain hypercare support for 24 weeks post-go-live](cards/UC10000426-V-02-obtain-hypercare-support-for-24-weeks-post-go-live.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Obtain hypercare support for 24 weeks post-go-live"} dc-card -->
+  - [Transition support to customers internal IT team](cards/UC10000426-V-03-transition-support-to-customers-internal-it-team.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Transition support to customers internal IT team"} dc-card -->
+  - [Conduct final project review and closure](cards/UC10000426-V-04-conduct-final-project-review-and-closure.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Conduct final project review and closure"} dc-card -->
+- COMPLETE
+  - [Co-create a Success Story with Brisken](cards/UC10000426-Y-01-co-create-a-success-story-with-brisken.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Co-create a Success Story with Brisken"} dc-card -->
+  - [Facilitate a Strategic Roadmap & Project Closure Workshop](cards/UC10000426-Y-02-facilitate-a-strategic-roadmap-project-closure-workshop.md)<!-- dc-card: {"label": ["BRISKEN", "CUSTOMER"], "cardName": "Facilitate a Strategic Roadmap & Project Closure Workshop"} dc-card -->
+  - [Create go-live communication](cards/UC10000426-Y-03-create-go-live-communication.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Create go-live communication"} dc-card -->
+  - [Tell us what do you think](cards/UC10000426-Y-04-tell-us-what-do-you-think.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Tell us what do you think"} dc-card -->
+  - [Explore similar missions](cards/UC10000426-Y-05-explore-similar-missions.md)<!-- dc-card: {"label": ["CUSTOMER", "BRISKEN"], "cardName": "Explore similar missions"} dc-card -->
+  - [Complete the mission](cards/UC10000426-Y-06-complete-the-mission.md)<!-- dc-card: {"label": ["CUSTOMER"], "cardName": "Complete the mission"} dc-card -->
+<!-- disco-toc-end -->
