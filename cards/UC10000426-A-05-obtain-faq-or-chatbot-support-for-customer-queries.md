@@ -1,6 +1,6 @@
 # Obtain FAQ or chatbot support for customer queries
 
-Compile a comprehensive faq document addressing common queries about sap mbc, such as troubleshooting and feature explanations. Develop a chatbot, if feasible, to obtain instant responses to frequently asked questions. You will be able to confidently Compile a comprehensive faq document addressing common queries about sap mbc, such as troubleshooting and feature explanations
+This card supports the transition from 'Highlight potential use cases for SAP MBC'. Compile a comprehensive FAQ document addressing common queries about SAP MBC, such as troubleshooting and feature explanations. Develop a chatbot, if feasible, to obtain instant responses to frequently asked questions.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-05-top.png)
 
@@ -14,6 +14,6 @@ Compile a comprehensive faq document addressing common queries about sap mbc, su
 
 ## Outcome
 
-You will be able to confidently Compile a comprehensive faq document addressing common queries about sap mbc, such as troubleshooting and feature explanations. accelerating progress and improving project alignment
+This enables you to compile a comprehensive FAQ document addressing common queries about SAP MBC, such as troubleshooting and feature explanations
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-05-bottom.png)

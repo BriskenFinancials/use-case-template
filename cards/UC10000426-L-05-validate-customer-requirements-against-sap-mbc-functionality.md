@@ -1,6 +1,6 @@
 # Validate customer requirements against SAP MBC functionality
 
-Review the customers documented requirements in detail and cross-reference them with sap mbcs standard features. Identify any discrepancies or gaps in functionality and propose alternative solutions where applicable. You will be able to confidently Review the customers documented requirements in detail and cross-reference them with sap mbcs standard features
+This task builds the foundation for the transition from 'Conduct Fit-to-Standard workshop to map requirements to SAP MBC'. Review the customers documented requirements in detail and cross-reference them with SAP mbcs standard features. Identify any discrepancies or gaps in functionality and propose alternative solutions where applicable.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-L-05-top.png)
 
@@ -14,6 +14,6 @@ Review the customers documented requirements in detail and cross-reference them 
 
 ## Outcome
 
-You will be able to confidently Review the customers documented requirements in detail and cross-reference them with sap mbcs standard features. accelerating progress and improving project alignment
+This enables you to review the customers documented requirements in detail and cross-reference them with SAP mbcs standard features
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-L-05-bottom.png)

@@ -1,6 +1,6 @@
 # Prepare test plan and data for customer-specific scenarios
 
-Work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation. Develop a detailed test plan, including objectives, test cases, expected results, and timelines. You will be able to confidently Work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation
+This stage helps clarify the transition from 'Plan MBC connectivity setup for each bank'. Work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation. Develop a detailed test plan, including objectives, test cases, expected results, and timelines.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-02-top.png)
 
@@ -14,6 +14,6 @@ Work with the customer to identify key business scenarios that need to be tested
 
 ## Outcome
 
-You will be able to confidently Work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation. accelerating progress and improving project alignment
+This enables you to work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-02-bottom.png)

@@ -1,6 +1,6 @@
 # Complete the mission
 
-Close all open tasks in the sap ucr board. Document outcomes and archive key deliverables. You will be able to confidently Close all open tasks in the sap ucr board. accelerating progress and improving project alignment
+This activity leads into the transition from 'Explore similar missions'. Close all open tasks in the SAP UCR board. Document outcomes and archive key deliverables.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-06-top.png)
 
@@ -12,6 +12,6 @@ Close all open tasks in the sap ucr board. Document outcomes and archive key del
 
 ## Outcome
 
-You will be able to confidently Close all open tasks in the sap ucr board. accelerating progress and improving project alignment
+This enables you to close all open tasks in the SAP UCR board
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-06-bottom.png)

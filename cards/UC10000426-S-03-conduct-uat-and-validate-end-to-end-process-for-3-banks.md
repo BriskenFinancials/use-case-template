@@ -1,6 +1,6 @@
 # Conduct UAT and validate end-to-end process for 3 banks
 
-Plan the user acceptance testing (uat) phase by identifying critical business processes and scenarios that need to be validated. Collaborate with the customer to define acceptance criteria for each scenario. You will be able to confidently Plan the user acceptance testing (uat) phase by identifying critical business processes and scenarios that need to be validated
+This stage helps clarify the transition from 'Prepare cutover plan and production environment'. Plan the user acceptance testing (uat) phase by identifying critical business processes and scenarios that need to be validated. Collaborate with the customer to define acceptance criteria for each scenario.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-03-top.png)
 
@@ -14,6 +14,6 @@ Plan the user acceptance testing (uat) phase by identifying critical business pr
 
 ## Outcome
 
-You will be able to confidently Plan the user acceptance testing (uat) phase by identifying critical business processes and scenarios that need to be validated. accelerating progress and improving project alignment
+This enables you to plan the user acceptance testing (uat) phase by identifying critical business processes and scenarios that need to be validated
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-03-bottom.png)

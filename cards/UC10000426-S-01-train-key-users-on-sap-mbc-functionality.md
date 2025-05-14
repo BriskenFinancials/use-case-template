@@ -1,6 +1,6 @@
 # Train key users on SAP MBC functionality
 
-Schedule training sessions with the customers key users, ensuring all participants are available. Develop training materials, including user guides, video tutorials, and hands-on exercises. You will be able to confidently Schedule training sessions with the customers key users, ensuring all participants are available
+This task builds the foundation for the transition from 'Conduct unit and integration testing for each scenario'. Schedule training sessions with the customers key users, ensuring all participants are available. Develop training materials, including user guides, video tutorials, and hands-on exercises.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-01-top.png)
 
@@ -14,6 +14,6 @@ Schedule training sessions with the customers key users, ensuring all participan
 
 ## Outcome
 
-You will be able to confidently Schedule training sessions with the customers key users, ensuring all participants are available. accelerating progress and improving project alignment
+This enables you to schedule training sessions with the customers key users, ensuring all participants are available
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-01-bottom.png)

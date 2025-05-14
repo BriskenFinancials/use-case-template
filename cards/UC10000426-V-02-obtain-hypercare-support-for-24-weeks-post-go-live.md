@@ -1,6 +1,6 @@
 # Obtain hypercare support for 24 weeks post-go-live
 
-Establish a dedicated support channel to address any issues or concerns raised by the customer post-go-live. Assign a team to obtain hypercare support for a duration of 24 weeks, ensuring prompt resolution of all queries. You will be able to confidently Establish a dedicated support channel to address any issues or concerns raised by the customer post-go-live
+This task builds the foundation for the transition from 'Monitor initial transactions for errors and delays'. Establish a dedicated support channel to address any issues or concerns raised by the customer post-go-live. Assign a team to obtain hypercare support for a duration of 24 weeks, ensuring prompt resolution of all queries.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-V-02-top.png)
 
@@ -14,6 +14,6 @@ Establish a dedicated support channel to address any issues or concerns raised b
 
 ## Outcome
 
-You will be able to confidently Establish a dedicated support channel to address any issues or concerns raised by the customer post-go-live. accelerating progress and improving project alignment
+This enables you to establish a dedicated support channel to address any issues or concerns raised by the customer post-go-live
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-V-02-bottom.png)

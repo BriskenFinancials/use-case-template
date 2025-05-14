@@ -1,6 +1,6 @@
 # Host a technical workshop to evaluate customer SAP system readiness
 
-Organize a technical workshop with the customers it team to assess their current sap landscape and middleware. Review the customers system architecture and identify potential gaps or risks that could impact the sap mbc implementation. You will be able to confidently Organize a technical workshop with the customers it team to assess their current sap landscape and middleware
+Here, the goal is to the transition from 'Showcase key SAP MBC functionalities in live demo'. Organize a technical workshop with the customers it team to assess their current SAP landscape and middleware. Review the customers system architecture and identify potential gaps or risks that could impact the SAP MBC implementation.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-G-03-top.png)
 
@@ -14,6 +14,6 @@ Organize a technical workshop with the customers it team to assess their current
 
 ## Outcome
 
-You will be able to confidently Organize a technical workshop with the customers it team to assess their current sap landscape and middleware. accelerating progress and improving project alignment
+This enables you to organize a technical workshop with the customers it team to assess their current SAP landscape and middleware
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-G-03-bottom.png)

@@ -1,6 +1,6 @@
 # Present fixed-scope, fixed-price proposal with project timelines
 
-Develop a detailed project proposal, including a fixed scope, fixed price, and clear project timelines. Schedule a meeting with the customer to present the proposal and ensure all stakeholders are present. You will be able to confidently Develop a detailed project proposal, including a fixed scope, fixed price, and clear project timelines
+This activity leads into the transition from 'Define project scope for 1 company code and 3 banks'. Develop a detailed project proposal, including a fixed scope, fixed price, and clear project timelines. Schedule a meeting with the customer to present the proposal and ensure all stakeholders are present.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-G-05-top.png)
 
@@ -14,6 +14,6 @@ Develop a detailed project proposal, including a fixed scope, fixed price, and c
 
 ## Outcome
 
-You will be able to confidently Develop a detailed project proposal, including a fixed scope, fixed price, and clear project timelines. accelerating progress and improving project alignment
+This enables you to develop a detailed project proposal, including a fixed scope, fixed price, and clear project timelines
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-G-05-bottom.png)

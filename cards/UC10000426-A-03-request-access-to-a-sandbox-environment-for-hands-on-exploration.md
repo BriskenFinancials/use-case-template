@@ -1,6 +1,6 @@
 # Request access to a sandbox environment for hands-on exploration
 
-Request coordination with the sap mbc team to set up a sandbox environment tailored to the customer's needs. Request and review login credentials and a comprehensive guide to using the sandbox environment. You will be able to confidently Request coordination with the sap mbc team to set up a sandbox environment tailored to the customer's needs
+It lays the groundwork for the transition from 'Review product brochures, FAQs, and recorded demo videos'. Request coordination with the SAP MBC team to set up a sandbox environment tailored to the customer's needs. Request and review login credentials and a comprehensive guide to using the sandbox environment.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-03-top.png)
 
@@ -14,6 +14,6 @@ Request coordination with the sap mbc team to set up a sandbox environment tailo
 
 ## Outcome
 
-You will be able to confidently Request coordination with the sap mbc team to set up a sandbox environment tailored to the customer's needs. accelerating progress and improving project alignment
+This enables you to request coordination with the SAP MBC team to set up a sandbox environment tailored to the customer's needs
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-03-bottom.png)

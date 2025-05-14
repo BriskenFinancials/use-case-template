@@ -1,6 +1,6 @@
 # Plan MBC connectivity setup for each bank
 
-Collaborate with the customer to identify the connectivity requirements for each of the three selected banks. Define the communication protocols (e.g. sftp, api) and security measures (e.g. encryption) required for sap mbc to connect with each bank. You will be able to confidently Collaborate with the customer to identify the connectivity requirements for each of the three selected banks
+This card supports the transition from 'Document payment formats required for 3 banks'. Collaborate with the customer to identify the connectivity requirements for each of the three selected banks. Define the communication protocols (e. G. Sftp, api) and security measures (e. G. Encryption) required for SAP MBC to connect with each bank.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-01-top.png)
 
@@ -14,6 +14,6 @@ Collaborate with the customer to identify the connectivity requirements for each
 
 ## Outcome
 
-You will be able to confidently Collaborate with the customer to identify the connectivity requirements for each of the three selected banks. accelerating progress and improving project alignment
+This enables you to collaborate with the customer to identify the connectivity requirements for each of the three selected banks
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-01-bottom.png)

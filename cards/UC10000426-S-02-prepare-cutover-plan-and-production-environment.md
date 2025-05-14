@@ -1,6 +1,6 @@
 # Prepare cutover plan and production environment
 
-Develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production. Review the cutover plan with all stakeholders for review and approval. You will be able to confidently Develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production
+This card supports the transition from 'Train key users on SAP MBC functionality'. Develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production. Review the cutover plan with all stakeholders for review and approval.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-02-top.png)
 
@@ -14,6 +14,6 @@ Develop a detailed cutover plan outlining all activities, timelines, and respons
 
 ## Outcome
 
-You will be able to confidently Develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production. accelerating progress and improving project alignment
+This enables you to develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-02-bottom.png)

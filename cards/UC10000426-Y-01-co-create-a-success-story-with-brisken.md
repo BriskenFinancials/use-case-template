@@ -1,6 +1,6 @@
 # Co-create a Success Story with Brisken
 
-Schedule a final interview with stakeholders from both the customer and brisken. Collect qualitative and quantitative outcomes of the project. You gain a professionally crafted success story that highlights your organization’s innovation, leadership, and tangible results
+This activity leads into the transition from 'Conduct final project review and closure'. Schedule a final interview with stakeholders from both the customer and brisken. Collect qualitative and quantitative outcomes of the project.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-01-top.png)
 

@@ -1,6 +1,6 @@
 # Move configurations to production and execute first live payment run
 
-Migrate all validated configurations from the test environment to the production environment. Verify that all integrations with the customers banks and third-party systems are functioning correctly in the production setup. You will be able to confidently Migrate all validated configurations from the test environment to the production environment
+Here, the goal is to the transition from 'Conduct UAT and validate end-to-end process for 3 banks'. Migrate all validated configurations from the test environment to the production environment. Verify that all integrations with the customers banks and third-party systems are functioning correctly in the production setup.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-04-top.png)
 
@@ -14,6 +14,6 @@ Migrate all validated configurations from the test environment to the production
 
 ## Outcome
 
-You will be able to confidently Migrate all validated configurations from the test environment to the production environment. accelerating progress and improving project alignment
+This enables you to migrate all validated configurations from the test environment to the production environment
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-04-bottom.png)

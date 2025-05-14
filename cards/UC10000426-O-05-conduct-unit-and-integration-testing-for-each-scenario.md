@@ -1,6 +1,6 @@
 # Conduct unit and integration testing for each scenario
 
-Identify all scenarios that require unit and integration testing, such as payment processing and bank statement reconciliation. Set up test cases for each scenario in the testing environment. You will be able to confidently Identify all scenarios that require unit and integration testing, such as payment processing and bank statement reconciliation
+This task builds the foundation for the transition from 'Set up bank accounts and communication channels for 3 banks'. Identify all scenarios that require unit and integration testing, such as payment processing and bank statement reconciliation. Set up test cases for each scenario in the testing environment.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-05-top.png)
 
@@ -14,6 +14,6 @@ Identify all scenarios that require unit and integration testing, such as paymen
 
 ## Outcome
 
-You will be able to confidently Identify all scenarios that require unit and integration testing, such as payment processing and bank statement reconciliation. accelerating progress and improving project alignment
+This enables you to identify all scenarios that require unit and integration testing, such as payment processing and bank statement reconciliation
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-05-bottom.png)

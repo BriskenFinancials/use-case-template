@@ -1,6 +1,6 @@
 # Tell us what do you think
 
-Share a feedback form with team and customer stakeholders. Gather insights on process, delivery, and outcomes. You will be able to confidently Share a feedback form with team and customer stakeholders. accelerating progress and improving project alignment
+This card supports the transition from 'Create go-live communication'. Share a feedback form with team and customer stakeholders. Gather insights on process, delivery, and outcomes.
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-04-top.png)
 
@@ -12,6 +12,6 @@ Share a feedback form with team and customer stakeholders. Gather insights on pr
 
 ## Outcome
 
-You will be able to confidently Share a feedback form with team and customer stakeholders. accelerating progress and improving project alignment
+This enables you to share a feedback form with team and customer stakeholders
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-04-bottom.png)
