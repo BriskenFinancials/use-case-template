@@ -1,19 +1,14 @@
-# Obtain access to a self-guided demo environment for SAP MBC
 
-This activity leads into the next step: 'Review product brochures, FAQs, and recorded demo videos'. Request access to the self-guided demo environment from the SAP MBC team. Review the access credentials with the customer, ensuring they include instructions for navigating the environment.
+<img src="sap-mbc-banner.png" alt="SAP MBC Demo Banner" style="width: 100%; height: auto;" />
 
-![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-01-top.png)
+## SAP MBC Demo Access
 
-## Instructions
+This card introduces a secure, guided access experience for the SAP MBC demo environment. The visual depicts professionals collaborating in a digital workspace, accessing a shared SAP MBC interface.
 
-1. Request access to the self-guided demo environment from the SAP MBC team.
-2. Review the access credentials with the customer, ensuring they include instructions for navigating the environment.
-3. Guide the customer on how to explore key features independently, such as payment processing and bank statement reconciliations.
-4. Follow up periodically to address any issues or questions the customer may have.
-5. Collect feedback from the customer about their experience to improve the demo environment for future use
+- Includes digital credential verification
+- Supports user walkthroughs and training scenarios
+- Enables PoC validation in a sandboxed SAP context
 
-## Outcome
-
-This enables you to request access to the self-guided demo environment from the SAP MBC team
-
-![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-01-bottom.png)
+<p align="center">
+  <img src="demo-access-icon.png" width="128" height="128" alt="Demo Access Icon" />
+</p>
