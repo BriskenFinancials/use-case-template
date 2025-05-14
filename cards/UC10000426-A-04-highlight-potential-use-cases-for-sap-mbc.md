@@ -1,6 +1,6 @@
 # Highlight potential use cases for SAP MBC
 
-Identify and document key business challenges that sap mbc addresses, such as automating bank communications and payment processing. Create case studies or real-world scenarios to highlight the solution's capabilities. This enables: You will be able to confidently Identify and document key business challenges that sap mbc addresses, such as automating bank communications and payment processing
+Identify and document key business challenges that sap mbc addresses, such as automating bank communications and payment processing. Create case studies or real-world scenarios to highlight the solution's capabilities. You will be able to confidently Identify and document key business challenges that sap mbc addresses, such as automating bank communications and payment processing
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-04-top.png)
 
@@ -15,9 +15,5 @@ Identify and document key business challenges that sap mbc addresses, such as au
 ## Outcome
 
 You will be able to confidently Identify and document key business challenges that sap mbc addresses, such as automating bank communications and payment processing. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-04-bottom.png)

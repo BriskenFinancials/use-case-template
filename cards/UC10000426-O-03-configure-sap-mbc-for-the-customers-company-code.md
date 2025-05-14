@@ -1,6 +1,6 @@
 # Configure SAP MBC for the customers company code
 
-Collect all necessary information about the customers company code, such as chart of accounts and payment formats. Set up sap mbc to align with the customers specific company code requirements. This enables: You will be able to confidently Collect all necessary information about the customers company code, such as chart of accounts and payment formats
+Collect all necessary information about the customers company code, such as chart of accounts and payment formats. Set up sap mbc to align with the customers specific company code requirements. You will be able to confidently Collect all necessary information about the customers company code, such as chart of accounts and payment formats
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-03-top.png)
 
@@ -15,9 +15,5 @@ Collect all necessary information about the customers company code, such as char
 ## Outcome
 
 You will be able to confidently Collect all necessary information about the customers company code, such as chart of accounts and payment formats. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-03-bottom.png)

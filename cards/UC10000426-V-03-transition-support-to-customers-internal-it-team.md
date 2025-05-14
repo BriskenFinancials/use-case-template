@@ -1,6 +1,6 @@
 # Transition support to customers internal IT team
 
-Schedule a handover session with the customers internal it team to transition support responsibilities. Prepare all necessary documentation, including system configurations, troubleshooting guides, and user manuals. This enables: You will be able to confidently Schedule a handover session with the customers internal it team to transition support responsibilities
+Schedule a handover session with the customers internal it team to transition support responsibilities. Prepare all necessary documentation, including system configurations, troubleshooting guides, and user manuals. You will be able to confidently Schedule a handover session with the customers internal it team to transition support responsibilities
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-V-03-top.png)
 
@@ -15,9 +15,5 @@ Schedule a handover session with the customers internal it team to transition su
 ## Outcome
 
 You will be able to confidently Schedule a handover session with the customers internal it team to transition support responsibilities. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-V-03-bottom.png)

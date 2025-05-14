@@ -1,6 +1,6 @@
 # Facilitate a Strategic Roadmap & Project Closure Workshop
 
-Gather all open requirements, backlogs, and wishlist items from the current project. Present findings during the project closure meeting. This enables: You walk away with a clear, actionable roadmap that builds on current successes and addresses future priorities, empowering strategic planning across SAP, treasury, and Brisken solution areas
+Gather all open requirements, backlogs, and wishlist items from the current project. Present findings during the project closure meeting. You walk away with a clear, actionable roadmap that builds on current successes and addresses future priorities, empowering strategic planning across SAP, treasury, and Brisken solution areas
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-02-top.png)
 
@@ -15,9 +15,5 @@ Gather all open requirements, backlogs, and wishlist items from the current proj
 ## Outcome
 
 You walk away with a clear, actionable roadmap that builds on current successes and addresses future priorities, empowering strategic planning across SAP, treasury, and Brisken solution areas
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-02-bottom.png)

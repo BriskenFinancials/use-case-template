@@ -1,6 +1,6 @@
 # Set up bank accounts and communication channels for 3 banks
 
-Gather all required details about the customers bank accounts and the communication protocols used by each of the three banks. Configure sap mbc to establish secure communication channels with each bank (e.g. sftp, api). This enables: You will be able to confidently Gather all required details about the customers bank accounts and the communication protocols used by each of the three banks
+Gather all required details about the customers bank accounts and the communication protocols used by each of the three banks. Configure sap mbc to establish secure communication channels with each bank (e.g. sftp, api). You will be able to confidently Gather all required details about the customers bank accounts and the communication protocols used by each of the three banks
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-04-top.png)
 
@@ -15,9 +15,5 @@ Gather all required details about the customers bank accounts and the communicat
 ## Outcome
 
 You will be able to confidently Gather all required details about the customers bank accounts and the communication protocols used by each of the three banks. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-04-bottom.png)

@@ -1,6 +1,6 @@
 # Conduct Fit-to-Standard workshop to map requirements to SAP MBC
 
-Schedule a fit-to-standard workshop with all relevant stakeholders from the customers team. Review the customers requirements in detail and map them against sap mbc's standard capabilities. This enables: You will be able to confidently Schedule a fit-to-standard workshop with all relevant stakeholders from the customers team
+Schedule a fit-to-standard workshop with all relevant stakeholders from the customers team. Review the customers requirements in detail and map them against sap mbc's standard capabilities. You will be able to confidently Schedule a fit-to-standard workshop with all relevant stakeholders from the customers team
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-L-04-top.png)
 
@@ -15,9 +15,5 @@ Schedule a fit-to-standard workshop with all relevant stakeholders from the cust
 ## Outcome
 
 You will be able to confidently Schedule a fit-to-standard workshop with all relevant stakeholders from the customers team. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-L-04-bottom.png)

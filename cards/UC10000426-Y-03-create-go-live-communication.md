@@ -1,6 +1,6 @@
 # Create go-live communication
 
-Draft communication assets for internal and external channels. Announce successful go-live to relevant audiences. This enables: You will be able to confidently Draft communication assets for internal and external channels. accelerating progress and improving project alignment
+Draft communication assets for internal and external channels. Announce successful go-live to relevant audiences. You will be able to confidently Draft communication assets for internal and external channels. accelerating progress and improving project alignment
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-03-top.png)
 
@@ -13,9 +13,5 @@ Draft communication assets for internal and external channels. Announce successf
 ## Outcome
 
 You will be able to confidently Draft communication assets for internal and external channels. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-03-bottom.png)

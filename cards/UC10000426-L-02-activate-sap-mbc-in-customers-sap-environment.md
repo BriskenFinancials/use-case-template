@@ -1,6 +1,6 @@
 # Activate SAP MBC in customers SAP environment
 
-Engage with the customers it team to schedule the activation of sap mbc in their environment. Follow the sap mbc implementation guide to execute the activation process step by step. This enables: You will be able to confidently Engage with the customers it team to schedule the activation of sap mbc in their environment
+Engage with the customers it team to schedule the activation of sap mbc in their environment. Follow the sap mbc implementation guide to execute the activation process step by step. You will be able to confidently Engage with the customers it team to schedule the activation of sap mbc in their environment
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-L-02-top.png)
 
@@ -17,9 +17,5 @@ Engage with the customers it team to schedule the activation of sap mbc in their
 ## Outcome
 
 You will be able to confidently Engage with the customers it team to schedule the activation of sap mbc in their environment. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-L-02-bottom.png)

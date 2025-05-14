@@ -1,6 +1,6 @@
 # Prepare test plan and data for customer-specific scenarios
 
-Work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation. Develop a detailed test plan, including objectives, test cases, expected results, and timelines. This enables: You will be able to confidently Work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation
+Work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation. Develop a detailed test plan, including objectives, test cases, expected results, and timelines. You will be able to confidently Work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-02-top.png)
 
@@ -15,9 +15,5 @@ Work with the customer to identify key business scenarios that need to be tested
 ## Outcome
 
 You will be able to confidently Work with the customer to identify key business scenarios that need to be tested, such as payment processing and bank statement reconciliation. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-O-02-bottom.png)

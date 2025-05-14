@@ -1,6 +1,6 @@
 # Explore similar missions
 
-Suggest relevant follow-on use cases or brisken solutions. Link to missions in the sap discovery center or internal library. This enables: You will be able to confidently Suggest relevant follow-on use cases or brisken solutions. accelerating progress and improving project alignment
+Suggest relevant follow-on use cases or brisken solutions. Link to missions in the sap discovery center or internal library. You will be able to confidently Suggest relevant follow-on use cases or brisken solutions. accelerating progress and improving project alignment
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-05-top.png)
 
@@ -13,9 +13,5 @@ Suggest relevant follow-on use cases or brisken solutions. Link to missions in t
 ## Outcome
 
 You will be able to confidently Suggest relevant follow-on use cases or brisken solutions. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-Y-05-bottom.png)

@@ -1,6 +1,6 @@
 # Prepare cutover plan and production environment
 
-Develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production. Review the cutover plan with all stakeholders for review and approval. This enables: You will be able to confidently Develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production
+Develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production. Review the cutover plan with all stakeholders for review and approval. You will be able to confidently Develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-02-top.png)
 
@@ -15,9 +15,5 @@ Develop a detailed cutover plan outlining all activities, timelines, and respons
 ## Outcome
 
 You will be able to confidently Develop a detailed cutover plan outlining all activities, timelines, and responsibilities required for transitioning to production. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-S-02-bottom.png)

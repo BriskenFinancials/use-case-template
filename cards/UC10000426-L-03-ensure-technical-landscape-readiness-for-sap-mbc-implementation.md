@@ -1,6 +1,6 @@
 # Ensure technical landscape readiness for SAP MBC implementation
 
-Conduct a comprehensive review of the customers technical landscape, including hardware, software, and network configurations. Verify that all technical prerequisites, such as middleware and sap mbc compatibility, are met. This enables: You will be able to confidently Conduct a comprehensive review of the customers technical landscape, including hardware, software, and network configurations
+Conduct a comprehensive review of the customers technical landscape, including hardware, software, and network configurations. Verify that all technical prerequisites, such as middleware and sap mbc compatibility, are met. You will be able to confidently Conduct a comprehensive review of the customers technical landscape, including hardware, software, and network configurations
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-L-03-top.png)
 
@@ -15,9 +15,5 @@ Conduct a comprehensive review of the customers technical landscape, including h
 ## Outcome
 
 You will be able to confidently Conduct a comprehensive review of the customers technical landscape, including hardware, software, and network configurations. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-L-03-bottom.png)

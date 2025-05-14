@@ -1,6 +1,6 @@
 # Obtain access to a self-guided demo environment for SAP MBC
 
-Request access to the self-guided demo environment from the sap mbc team. Review the access credentials with the customer, ensuring they include instructions for navigating the environment. This enables: You will be able to confidently Request access to the self-guided demo environment from the sap mbc team
+Request access to the self-guided demo environment from the sap mbc team. Review the access credentials with the customer, ensuring they include instructions for navigating the environment. You will be able to confidently Request access to the self-guided demo environment from the sap mbc team
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-01-top.png)
 
@@ -15,9 +15,5 @@ Request access to the self-guided demo environment from the sap mbc team. Review
 ## Outcome
 
 You will be able to confidently Request access to the self-guided demo environment from the sap mbc team. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-01-bottom.png)

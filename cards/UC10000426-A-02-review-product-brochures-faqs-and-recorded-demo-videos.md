@@ -1,6 +1,6 @@
 # Review product brochures, FAQs, and recorded demo videos
 
-Gather all relevant product brochures, faqs, and demo videos that showcase sap mbc's functionalities. Verify that all materials are up-to-date and cover key features like multi-bank integration and payment processing. This enables: You will be able to confidently Gather all relevant product brochures, faqs, and demo videos that showcase sap mbc's functionalities
+Gather all relevant product brochures, faqs, and demo videos that showcase sap mbc's functionalities. Verify that all materials are up-to-date and cover key features like multi-bank integration and payment processing. You will be able to confidently Gather all relevant product brochures, faqs, and demo videos that showcase sap mbc's functionalities
 
 ![Header Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-02-top.png)
 
@@ -15,9 +15,5 @@ Gather all relevant product brochures, faqs, and demo videos that showcase sap m
 ## Outcome
 
 You will be able to confidently Gather all relevant product brochures, faqs, and demo videos that showcase sap mbc's functionalities. accelerating progress and improving project alignment
-
-## Resources
-
-nan
 
 ![Footer Visual](https://raw.githubusercontent.com/BriskenFinancials/use-case-template/main/cards/assets/UC10000426-A-02-bottom.png)
